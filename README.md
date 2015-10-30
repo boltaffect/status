@@ -1,4 +1,4 @@
-# status
+# Status
 
 Just a spot to publish our status.
 
