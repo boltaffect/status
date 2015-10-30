@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BoltAffect Status</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on BoltAffect Status</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Oct 2015 22:14:15 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Starting Status Updates</title>
+      <link>http://localhost:1313/post/starting-status-updates/</link>
+      <pubDate>Thu, 29 Oct 2015 22:14:15 -0400</pubDate>
+      
+      <guid>http://localhost:1313/post/starting-status-updates/</guid>
+      <description>&lt;p&gt;Hey, we&amp;rsquo;ll be making updates here form time to time. If you&amp;rsquo;ve ever got a question if something was down or not as you&amp;rsquo;d expect just check here first.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

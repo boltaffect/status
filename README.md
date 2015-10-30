@@ -1,3 +1,0 @@
-# status
-
-For status updates
