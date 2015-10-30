@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://boltaffect.com/status/</loc>
     <lastmod>2015-10-29T22:14:15-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/starting-status-updates/</loc>
+    <loc>http://boltaffect.com/status/post/starting-status-updates/</loc>
     <lastmod>2015-10-29T22:14:15-04:00</lastmod>
   </url>
   
